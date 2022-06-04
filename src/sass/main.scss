@@ -1,0 +1,9 @@
+body {
+    background-color: #fff;
+    p {
+        color: red;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
